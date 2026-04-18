@@ -1,0 +1,28 @@
+text,category,urgency
+wifi not working,IT,High
+internet is down,IT,High
+slow internet connection,IT,Medium
+wifi disconnecting frequently,IT,High
+computer not starting,IT,High
+need software installation,IT,Low
+lab computers are slow,IT,Medium
+
+food is cold,Food,Medium
+bad food quality,Food,High
+food tastes bad,Food,High
+cafeteria is dirty,Food,Medium
+no vegetarian food,Food,Low
+food service is slow,Food,Medium
+
+room is dirty,Hostel,Medium
+room cleaning not done,Hostel,Medium
+water leakage in bathroom,Hostel,High
+no water supply,Hostel,High
+light not working,Hostel,Medium
+fan not working,Hostel,Medium
+
+teacher not responding,Academic,Medium
+exam schedule confusing,Academic,Low
+marks not uploaded,Academic,High
+assignment deadline unclear,Academic,Low
+class cancelled without notice,Academic,Medium
