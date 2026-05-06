@@ -109,6 +109,14 @@ POST /predict
 }
 📊 Confusion Matrix
 
+step
+frontend- npm start
+backend - D:\My projects\Complain\backend\demo>mvnw.cmd spring-boot:run
+python -venv\Scripts\activate
+        uvicorn app:app --reload
+train python only one time 
+
+
 A confusion matrix is generated to evaluate model performance visually.
 
 Saved as:
